@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "EveloCode",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "RishBro.aternos.me",
+    "port": 16731,
+    "version": "1.18.1"
   },
 
   "position": {
@@ -48,10 +48,10 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
+        "Hello I M Minecraft Bot ",
+        "My owner is RishBroProMax",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Powerd by EveloCode"
       ]
     },
 
